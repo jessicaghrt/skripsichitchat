@@ -1,0 +1,1 @@
+Scenario.endTime = 43200Scenario.name = content_scenarioGroup.router = DecisionEngineRouterDecisionEngineRouter.decisionEngine = community.ContentRoutingScenario.nrofHostGroups = 4Group.movementModel = RandomWaypointGroup.nrofHosts = 20Events1.hosts = 0,61

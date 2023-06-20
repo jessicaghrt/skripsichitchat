@@ -1,0 +1,1 @@
+Scenario.endTime = 43200Scenario.name = hop_scenarioScenario.nrofHostGroups = 1Group.router = EpidemicRouterGroup.sendQueue = 3Group.movementModel = RandomWaypointGroup.nrofHosts = 20MovementModel.worldSize = 1000,1000Events1.hosts = 0,19Events1.interval = 431,432
